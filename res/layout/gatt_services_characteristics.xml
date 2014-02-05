@@ -18,21 +18,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp">
-    <!-- <LinearLayout android:orientation="horizontal"
-                  android:layout_width="match_parent"
-                  android:layout_height="wrap_content"
-                  android:layout_margin="10dp">
-        <TextView android:layout_width="wrap_content"
-                  android:layout_height="wrap_content"
-                  android:text="@string/label_device_address"
-                  android:textSize="18sp"/>
-        <Space android:layout_width="5dp"
-               android:layout_height="wrap_content"/>
-        <TextView android:id="@+id/device_address"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textSize="18sp"/>
-    </LinearLayout>-->
     <LinearLayout android:orientation="horizontal"
                   android:layout_width="match_parent"
                   android:layout_height="wrap_content"
