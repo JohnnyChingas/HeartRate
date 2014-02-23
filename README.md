@@ -1,4 +1,6 @@
 HeartRate
 =========
 
-Heart Rate
+Heart Rate, for Kit Kat.
+
+Eat a little, you look so thin.
